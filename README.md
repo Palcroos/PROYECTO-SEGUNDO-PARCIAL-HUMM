@@ -38,7 +38,7 @@ python -m unittest discover -s tests -v
 
 Configuración
 
-Los parámetros del entorno y los mapas se gestionan desde la carpeta config/:
+Los parámetros del entorno y los mapas se gestionan desde la carpeta config:
 
 config/escenario1.json, escenario2.json, escenario3.json: Definen las posiciones de inicio, destino, entregas, obstáculos, costos especiales y semillas de aleatoriedad.
 
