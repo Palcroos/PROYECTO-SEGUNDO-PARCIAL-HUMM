@@ -1,4 +1,4 @@
-Sistema de Planificación y Rutas Inteligentes
+#Héctor Uriel Martínez Medina PROYECTO SEGUNDO PARCIAL
 
 Proyecto individual de Inteligencia Artificial. Modela la planificación de rutas para un vehículo de entregas en una red de 12x12 casillas con obstáculos, costos variables, límite de combustible y la interferencia de un competidor.
 
@@ -46,4 +46,4 @@ config/parametros.json: Controla las ejecuciones por método y los parámetros d
 
 Resultados
 
-Al finalizar la ejecución, los datos numéricos en formato .csv y las gráficas generadas en .png se almacenan automáticamente dentro de la carpeta resultados/.
+Al finalizar la ejecución, los datos numéricos en formato .csv y las gráficas generadas en .png se almacenan automáticamente dentro de la carpeta resultados.
