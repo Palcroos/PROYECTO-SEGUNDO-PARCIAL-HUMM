@@ -1,16 +1,16 @@
 escenario,variante,valor,primera_jugada_MAX,nodos_visitados,podas,tiempo_ms
-escenario1,minimax completo,84,6,13700,0,16.893
-escenario1,alfa-beta (sin ordenar),84,6,2455,887,3.625
-escenario1,alfa-beta (ordenado),84,6,894,374,1.6
-escenario1,minimax prof=4 aprox.,84,6,1100,0,2.424
-escenario1,alfa-beta prof=4 aprox.,84,6,386,88,0.844
-escenario2,minimax completo,68,6,13700,0,16.06
-escenario2,alfa-beta (sin ordenar),68,6,1937,696,2.857
-escenario2,alfa-beta (ordenado),68,6,810,318,1.573
-escenario2,minimax prof=4 aprox.,68,6,1100,0,2.548
-escenario2,alfa-beta prof=4 aprox.,68,6,299,73,0.694
-escenario3,minimax completo,70,6,13700,0,16.216
-escenario3,alfa-beta (sin ordenar),70,6,3553,1269,5.188
-escenario3,alfa-beta (ordenado),70,6,928,354,1.809
-escenario3,minimax prof=4 aprox.,70,6,1100,0,2.606
-escenario3,alfa-beta prof=4 aprox.,70,6,519,111,1.157
+escenario1,minimax completo,84,6,13700,0,12.13
+escenario1,alfa-beta (sin ordenar),84,6,2455,887,2.447
+escenario1,alfa-beta (ordenado),84,6,894,374,1.283
+escenario1,minimax prof=4 aprox.,84,6,1100,0,2.437
+escenario1,alfa-beta prof=4 aprox.,84,6,386,88,0.666
+escenario2,minimax completo,68,6,13700,0,11.041
+escenario2,alfa-beta (sin ordenar),68,6,1937,696,1.594
+escenario2,alfa-beta (ordenado),68,6,810,318,0.963
+escenario2,minimax prof=4 aprox.,68,6,1100,0,1.549
+escenario2,alfa-beta prof=4 aprox.,68,6,299,73,0.422
+escenario3,minimax completo,70,6,13700,0,10.886
+escenario3,alfa-beta (sin ordenar),70,6,3553,1269,3.277
+escenario3,alfa-beta (ordenado),70,6,928,354,1.051
+escenario3,minimax prof=4 aprox.,70,6,1100,0,1.425
+escenario3,alfa-beta prof=4 aprox.,70,6,519,111,0.716
