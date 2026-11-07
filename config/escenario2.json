@@ -1,134 +1,29 @@
 {
   "nombre": "escenario2",
   "tamano": 12,
-  "inicio": [
-    5,
-    0
-  ],
-  "destino": [
-    5,
-    11
-  ],
+  "inicio": [5, 0],
+  "destino": [5, 11],
   "entregas": [
-    [
-      2,
-      2
-    ],
-    [
-      8,
-      3
-    ],
-    [
-      3,
-      9
-    ],
-    [
-      10,
-      1
-    ],
-    [
-      0,
-      8
-    ],
-    [
-      9,
-      10
-    ],
-    [
-      6,
-      7
-    ]
+    [2, 2], [8, 3], [3, 9], [10, 1], [0, 8], [9, 10], [6, 7]
   ],
   "obstaculos": [
-    [
-      0,
-      5
-    ],
-    [
-      1,
-      5
-    ],
-    [
-      2,
-      5
-    ],
-    [
-      3,
-      5
-    ],
-    [
-      4,
-      5
-    ],
-    [
-      6,
-      5
-    ],
-    [
-      7,
-      5
-    ],
-    [
-      8,
-      5
-    ],
-    [
-      9,
-      5
-    ],
-    [
-      10,
-      5
-    ]
+    [0, 5], [1, 5], [2, 5], [3, 5], [4, 5],
+    [6, 5], [7, 5], [8, 5], [9, 5], [10, 5]
   ],
   "costos_especiales": [
-    [
-      5,
-      4,
-      9
-    ],
-    [
-      5,
-      5,
-      9
-    ],
-    [
-      5,
-      6,
-      9
-    ]
+    [5, 4, 9], [5, 5, 9], [5, 6, 9]
   ],
   "combustible_maximo": 150,
   "competidor": {
     "descripcion": "cada estrategia del competidor congestiona una franja de filas y suma un recargo",
     "recargo": 2,
     "estrategias": {
-      "norte": [
-        1,
-        2
-      ],
-      "centro": [
-        5,
-        6
-      ],
-      "sur": [
-        9,
-        10
-      ]
+      "norte": [1, 2],
+      "centro": [5, 6],
+      "sur": [9, 10]
     }
   },
   "semilla": 42,
-  "base_competidor": [
-    10,
-    11
-  ],
-  "ganancias_entregas": [
-    100,
-    90,
-    85,
-    95,
-    80,
-    105,
-    90
-  ]
+  "base_competidor": [10, 11],
+  "ganancias_entregas": [100, 90, 85, 95, 80, 105, 90]
 }
