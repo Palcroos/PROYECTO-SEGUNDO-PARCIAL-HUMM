@@ -1,5 +1,5 @@
 {
-  "descripcion": "Parámetros y semillas de todos los experimentos. Cambiar aquí, no en el código.",
+  "descripcion": "Parámetros y semillas de todos los experimentos.",
   "escenarios": [
     "config/escenario1.json",
     "config/escenario2.json",
