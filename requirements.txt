@@ -1,0 +1,3 @@
+# Solo se necesitan para las gráficas (src/graficas.py). El resto usa la biblioteca estándar.
+matplotlib>=3.7
+numpy>=1.24

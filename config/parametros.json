@@ -1,0 +1,37 @@
+{
+  "descripcion": "Parámetros y semillas de todos los experimentos. Cambiar aquí, no en el código.",
+  "escenarios": [
+    "config/escenario1.json",
+    "config/escenario2.json",
+    "config/escenario3.json"
+  ],
+  "b_local": {
+    "ejecuciones": 10
+  },
+  "c_meta": {
+    "ejecuciones": 20,
+    "recocido": {
+      "t_inicial": 30.0,
+      "alfa": 0.95,
+      "t_min": 0.1,
+      "intentos_por_t": 10
+    },
+    "genetico": {
+      "poblacion": 30,
+      "generaciones": 40,
+      "k_torneo": 3,
+      "p_mutacion": 0.2,
+      "elite": 2
+    }
+  },
+  "d_juegos": {
+    "estrategias": [
+      "norte",
+      "centro",
+      "sur"
+    ]
+  },
+  "e_adversaria": {
+    "profundidad_aproximada": 4
+  }
+}

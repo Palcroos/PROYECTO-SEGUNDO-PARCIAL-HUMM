@@ -1,0 +1,7 @@
+escenario,metodo,optimo_real,mejor,promedio,desv_estandar,peor,evaluaciones_prom,tiempo_ms_prom,veces_optimo,ejecuciones
+escenario1,recocido,44,44,44,0.0,44,1121,5.18,20,20
+escenario1,genetico,44,44,44.2,0.6,46,1150,17.203,18,20
+escenario2,recocido,49,49,49,0.0,49,1121,5.747,20,20
+escenario2,genetico,49,49,49.5,0.87,51,1150,18.908,15,20
+escenario3,recocido,56,56,56,0.0,56,1121,5.287,20,20
+escenario3,genetico,56,56,56,0.0,56,1150,18.203,20,20

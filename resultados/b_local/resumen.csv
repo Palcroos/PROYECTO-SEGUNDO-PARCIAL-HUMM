@@ -1,0 +1,4 @@
+escenario,optimo_real,mejor,promedio,desv_estandar,peor,veces_optimo,ejecuciones
+escenario1,44,44,46.2,3.16,54,5,10
+escenario2,49,49,54.2,9.43,73,6,10
+escenario3,56,56,56,0.0,56,10,10

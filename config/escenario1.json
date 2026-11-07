@@ -1,0 +1,18 @@
+{
+  "nombre": "escenario1",
+  "tamano": 12,
+  "inicio": [0, 0],
+  "destino": [11, 11],
+  "entregas": [[2, 8], [6, 3], [9, 9], [1, 2], [4, 10], [10, 6], [7, 1]],
+  "obstaculos": [[3, 3], [3, 4], [3, 5], [4, 5], [7, 7], [7, 8], [8, 7], [10, 2], [10, 3]],
+  "costos_especiales": [[5, 5, 4], [5, 6, 4], [5, 7, 4], [6, 6, 3], [9, 4, 3], [9, 5, 3], [1, 8, 3], [1, 9, 3]],
+  "combustible_maximo": 120,
+  "competidor": {
+    "descripcion": "congestiona franjas de filas sumando un recargo",
+    "recargo": 2,
+    "estrategias": { "norte": [1, 2], "centro": [5, 6], "sur": [9, 10] }
+  },
+  "semilla": 42,
+  "base_competidor": [11, 0],
+  "ganancias_entregas": [90, 100, 85, 95, 80, 110, 75]
+}
